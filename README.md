@@ -1,3 +1,5 @@
+# Recomendador Anime 🍜
+
 <img src="https://images6.alphacoders.com/656/thumb-1920-656029.png">
 
 ## Tabla de contenidos
@@ -11,8 +13,6 @@
 7. [Resultados](#resultados-bar_chart)
 
 
-# Recomendador Anime 🍜
-
 ### Descripción del Proyecto :clipboard:
 Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) para realizar un sistema de recomendación simple.
 En este proyecto es posible indicar el nombre de un anime y obtener 10 recomendaciones similares al título ingresado.
@@ -25,9 +25,11 @@ En este proyecto es posible indicar el nombre de un anime y obtener 10 recomenda
   
 
 ### Estructura del Proyecto :open_file_folder:
-- train.csv: Archivo CSV que contiene los datos de entrenamiento.
-- test.csv: Archivo CSV que contiene los datos de validación.
-- titanic.ipynb: Un Jupyter notebook que contiene el código Python para el análisis de datos.
+- anime.csv: Archivo CSV que contiene información sobre los animes, como sus títulos, géneros, calificaciones y más.
+- rating.csv: Archivo CSV que contiene las calificaciones que los usuarios han dado a los animes.
+- recomendador_anime.ipynb: Jupyter notebook que contiene la implementación del sistema de recomendación.
+
+- 
 - funciones.py: Archivo Python que contiene las funciones utilizadas para este proyecto.
 - submission.csv: Archivo CSV que contiene las predicciones para el archivo test.csv de acuerdo a las instrucciones proporcionadas por Kaggle.
 
