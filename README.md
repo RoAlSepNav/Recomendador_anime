@@ -9,7 +9,6 @@
 3. [Estructura del Proyecto](#estructura-del-proyecto-open_file_folder)
 4. [Cómo usar este proyecto](#cómo-usar-este-proyecto-question)
 5. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook-page_facing_up)
-6. [Resultados](#resultados-bar_chart)
 
 
 ### Descripción del Proyecto :clipboard:
@@ -36,8 +35,4 @@ En este proyecto es posible indicar el nombre de un anime y obtener 10 recomenda
 - Exploración básica de datos
 - Preprocesamiento de datos
 - Modelado
-
-### Resultados :bar_chart:
-Se evaluaron todos los modelos utilizando la métrica accuracy, y los resultados son los siguientes:
-
 
