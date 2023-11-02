@@ -1,30 +1,28 @@
-<img src="https://historia.nationalgeographic.com.es/medio/2023/06/20/the-steamship-titanic-rmg-bhc3667_00000000_9b5bd117_230620084252_1200x630.jpg">
+<img src="https://images6.alphacoders.com/656/thumb-1920-656029.png">
 
 ## Tabla de contenidos
 
 1. [Descripción del Proyecto](#descripción-del-proyecto-clipboard)
-2. [Evaluación](#evaluación-chart_with_upwards_trend)
-3. [Herramientas Utilizadas](#herramientas-utilizadas-wrench)
-4. [Estructura del Proyecto](#estructura-del-proyecto-open_file_folder)
-5. [Cómo usar este proyecto](#cómo-usar-este-proyecto-question)
-6. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook-page_facing_up)
-7. [Modelos Utilizados](#modelos-utilizados-computer)
-8. [Resultados](#resultados-bar_chart)
+2. [Herramientas Utilizadas](#herramientas-utilizadas-wrench)
+3. [Estructura del Proyecto](#estructura-del-proyecto-open_file_folder)
+4. [Cómo usar este proyecto](#cómo-usar-este-proyecto-question)
+5. [Contenido del Jupyter notebook](#contenido-del-jupyter-notebook-page_facing_up)
+6. [Modelos Utilizados](#modelos-utilizados-computer)
+7. [Resultados](#resultados-bar_chart)
 
 
 # Recomendador Anime 🍜
 
 ### Descripción del Proyecto :clipboard:
-Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/competitions/titanic) para realizar un análisis de datos utilizando Python. El objetivo principal es usar Machine Learning para crear un modelo que prediga qué pasajeros sobrevivieron al hundimiento del Titanic.
-
-### Evaluación :chart_with_upwards_trend:
-La métrica que se busca mejorar es el accuracy (exactitud). Esta métrica se utiliza para evaluar la precisión de un modelo de clasificación. Se calcula dividiendo el número de predicciones correctas (clasificaciones correctas) entre el número total de predicciones realizadas por el modelo y se expresa como un valor porcentual.
+Este proyecto utiliza el conjunto de datos disponible en Kaggle (https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) para realizar un sistema de recomendación simple.
+En este proyecto es posible indicar el nombre de un anime y obtener 10 recomendaciones similares al título ingresado.
 
 ### Herramientas Utilizadas :wrench:
 - Python 3.9.17
-- Bibliotecas de análisis de datos: Pandas, NumPy.
+- Bibliotecas de análisis de datos: Pandas, NumPy, Scipy.
 - Bibliotecas de visualización: Matplotlib, Seaborn.
 - Biblioteca de aprendizaje automático: scikit-learn.
+  
 
 ### Estructura del Proyecto :open_file_folder:
 - train.csv: Archivo CSV que contiene los datos de entrenamiento.
