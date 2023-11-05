@@ -27,7 +27,7 @@ En este proyecto es posible indicar el nombre de un anime y obtener 10 recomenda
 - recomendador_anime.ipynb: Jupyter notebook que contiene la implementación del sistema de recomendación.
 
 ### Cómo usar este proyecto :question:
-1. Descarga el conjunto de datos desde Kaggle: https://www.kaggle.com/competitions/titanic/data
+1. Descarga el conjunto de datos desde Kaggle: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 2. Coloca los archivos CSV descargados (`anime.csv`, `rating.csv`) en la misma carpeta que este proyecto.
 3. Abre el Jupyter notebook `recomendador_anime.ipynb` y ejecuta las celdas de código paso a paso para explorar y analizar los datos. En la parte final se encuentra la función que permite realizar la recomendación de anime.
 
