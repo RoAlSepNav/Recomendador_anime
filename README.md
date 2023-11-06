@@ -22,9 +22,9 @@ En este proyecto es posible indicar el nombre de un anime y obtener 10 recomenda
 - Biblioteca de aprendizaje automático: scikit-learn.
   
 ### Estructura del Proyecto :open_file_folder:
-- anime.csv: Archivo CSV que contiene información sobre los animes, como sus títulos, géneros, calificaciones y más.
-- rating.csv: Archivo CSV que contiene las calificaciones que los usuarios han dado a los animes.
-- recomendador_anime.ipynb: Jupyter notebook que contiene la implementación del sistema de recomendación.
+- **anime.csv:** Archivo CSV que contiene información sobre los animes, como sus títulos, géneros, calificaciones y más.
+- **rating.csv:** Archivo CSV que contiene las calificaciones que los usuarios han dado a los animes.
+- **recomendador_anime.ipynb:** Jupyter notebook que contiene la implementación del sistema de recomendación.
 
 ### Cómo usar este proyecto :question:
 1. Asegúrate de tener instalado Python 3.9.17 en tu sistema.
